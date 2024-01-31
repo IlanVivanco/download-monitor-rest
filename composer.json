@@ -1,0 +1,12 @@
+{
+	"name": "ntm/download-monitor-rest",
+	"description": "Enables interaction with the Download Monitor plugin through the WordPress REST API.",
+	"require": {
+		"php": ">=8"
+	},
+	"autoload": {
+		"psr-4": {
+			"DMR\\": "classes/"
+		}
+	}
+}
