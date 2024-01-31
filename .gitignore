@@ -1,0 +1,9 @@
+# Node & composer
+node_modules/
+vendor/
+
+# Build folders
+/assests/
+/css/
+/js/
+/dist/
