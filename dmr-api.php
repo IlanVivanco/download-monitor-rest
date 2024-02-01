@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Download Monitor API
+ * Plugin Name: Download Monitor REST API
  * Description: Extends the Download Monitor plugin and adds REST API endpoints.
  * Author: Ilán Vivanco
  * Author URI: https://ilanvivanco.com/
